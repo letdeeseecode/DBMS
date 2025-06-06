@@ -35,7 +35,7 @@ INSERT INTO Products (Product_id, Product_name, Category, unit_price) VALUES
 (104, 'keyboard', 'Electronics', 20.00),
 (105, 'mouse', 'Electronics', 15.00);
 
-**Queries**
+# Queries :-
 # 1. Retrieve all Attributes from the sales table
 select * 
 from Sales;
